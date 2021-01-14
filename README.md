@@ -2,10 +2,10 @@
 
 <h2> Hi 👋, I'm Bilal Arslan!
 
-<p>
-  <em>iOS Developer at <a href="https://www.turkcell.com.tr">Tv+, Turkcell </a><img src="https://s.turkcell.com.tr/SiteAssets/Hakkimizda/genel-bakis/logolarimiz/AMBLEM_SARI.png" width="25">
-  </em>
-</p>
+<br>
+
+<em>iOS Developer at <a href="https://www.turkcell.com.tr">Tv+, Turkcell </a><img src="https://s.turkcell.com.tr/SiteAssets/Hakkimizda/genel-bakis/logolarimiz/AMBLEM_SARI.png" width="25">
+</em>
 
 <p align="left">
 <a href="https://twitter.com/_bilalarslan">
