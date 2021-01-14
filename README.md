@@ -1,6 +1,4 @@
-### Hi there
-
-<h2> Hi 👋, I'm Bilal Arslan!
+<h2> Hi 👋, I'm Bilal Arslan</h2>
 
 <br>
 
@@ -14,7 +12,7 @@
   <img align="left" alt="Bilal Arslan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=aarslanbilal.arslanbilal)
+![](https://visitor-badge.glitch.me/badge?page_id=arslanbilal.arslanbilal)
 </p>
 
 <br />
@@ -24,4 +22,5 @@
 -->
 
 📈 My GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arslanbilal&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="arslanbilal" />
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arslanbilal&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="arslanbilal"/>
