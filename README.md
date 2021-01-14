@@ -4,8 +4,7 @@
 
 <br>
 
-<em>iOS Developer at <a href="https://www.turkcell.com.tr">Tv+, Turkcell </a><img src="https://s.turkcell.com.tr/SiteAssets/Hakkimizda/genel-bakis/logolarimiz/AMBLEM_SARI.png" width="25">
-</em>
+<p><em>iOS Developer at <a href="https://www.turkcell.com.tr">Tv+, Turkcell </a><img src="https://s.turkcell.com.tr/SiteAssets/Hakkimizda/genel-bakis/logolarimiz/AMBLEM_SARI.png" width="25"></em></p>
 
 <p align="left">
 <a href="https://twitter.com/_bilalarslan">
