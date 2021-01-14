@@ -23,4 +23,5 @@
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arslanbilal&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="arslanbilal"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arslanbilal&show_icons=true&theme=vision-friendly-dark&count_private=true&include_all_commits=true" alt="arslanbilal"/>
+  
