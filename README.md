@@ -1,5 +1,7 @@
-<br>
+#### 👨🏻‍💻 About me
 <p><em> I am a software engineer focused on Apple platforms. Currently working as an iOS Developer at <a href="https://www.turkcell.com.tr">Tv+, Turkcell </a></em></p>
+
+#### ✉️ Contact Info
 
 <p align="left">
 <a href="https://twitter.com/_bilalarslan">
@@ -12,7 +14,7 @@
 
 <br />
   
-### 📈 GitHub Stats
+#### 📈 GitHub Stats
 
 <p align="center">
 <a href="https://github.com/arslanbilal">
