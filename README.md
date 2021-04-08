@@ -1,5 +1,5 @@
 #### 👨🏻‍💻 About me
-<p><em> I am a software engineer focused on Apple platforms. Currently working as an iOS Developer at <a href="https://www.turkcell.com.tr">Tv+, Turkcell </a></em></p>
+<p><em> I am a software engineer focused on Apple platforms.</em></p>
 
 #### ✉️ Contact Info
 
