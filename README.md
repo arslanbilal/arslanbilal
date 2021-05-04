@@ -1,5 +1,6 @@
 #### 👨🏻‍💻 About me
-<p><em> I am a software engineer focused on Apple platforms.</em></p>
+
+<p><em> I am a software engineer focused on Apple platforms. Currently working as an iOS Developer at <a href="https://madduck.co">Madduck</a></em></p>
 
 #### ✉️ Contact Info
 
@@ -10,6 +11,7 @@
 <a href="https://www.linkedin.com/in/bilal-arslan/">
   <img align="left" alt="Bilal Arslan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 <!-- <a href="http://bilalarslan.me/">
   <img align="left" alt="Bilal Arslan's web page" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/web.svg" />
 </a> -->
