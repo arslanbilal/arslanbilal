@@ -1,6 +1,6 @@
 #### 👨🏻‍💻 About me
 
-<p><em> I am a software engineer focused on Apple platforms. Currently working as an iOS Developer at <a href="https://madduck.co">Madduck</a></em></p>
+<p><em> I am a software engineer focused on Apple platforms. Currently working as an iOS Tech Lead @hepsiburada </em></p>
 
 #### ✉️ Contact Info
 
