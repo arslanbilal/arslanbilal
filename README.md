@@ -1,8 +1,8 @@
 #### 👨🏻‍💻 About me
 
-<p><em> I am a software engineer focused on Apple platforms. Currently working as an iOS Tech Lead @hepsiburada </em></p>
+<p><em> I am a software engineer focused on Apple platforms. Currently working as an iOS Tech Lead <a href="https://github.com/hepsiburada"> @hepsiburada</a> </em></p>
 
-#### ✉️ Contact Info
+<!-- #### ✉️ Contact Info
 
 <p align="left">
 <a href="https://twitter.com/_bilalarslan">
@@ -15,13 +15,13 @@
 <!-- <a href="http://bilalarslan.me/">
   <img align="left" alt="Bilal Arslan's web page" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/web.svg" />
 </a> -->
-</p>
+<!--</p>
 
 <br />
   
-<!-- #### 📈 GitHub Stats
+<!--#### 📈 GitHub Stats
 
-<!--<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/arslanbilal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arslanbilal&show_icons=true&theme=vision-friendly-dark&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslanbilal&layout=compact&theme=vision-friendly-dark"/>
